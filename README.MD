@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img alt="project preview" src=".github/preview.png" width="40%">
+ 
+<kbd>
+<img alt="project preview" src=".github/preview.png" width="90%" style="border-radius:50%" ></kbd>
 </p>
 
 ## 👩‍💻 About the project

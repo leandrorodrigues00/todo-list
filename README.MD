@@ -21,7 +21,7 @@ This project was a challenge proposed in the ReactJS course at [Rocketseat](http
 
 With it you can register and exclude tasks.
 
-Project developed to practice the concepts of the javascript library ReactJs
+Project developed to practice the concepts of this library
 
 [click here, see closer](https://todo-list-cs.vercel.app/) 😉
 

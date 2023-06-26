@@ -17,11 +17,9 @@
 
 ## 👩‍💻 About the project
 
-This project was a challenge proposed in the ReactJS course at [Rocketseat](https://www.rocketseat.com.br/)
-
-With it you can register and exclude tasks.
-
-Project developed to practice the concepts of this library
+The todo-list is a task management application built in ReactJS. With this application, users can register, delete, and mark tasks as completed.
+Key features: task registration, task deletion, completion marking.
+The todo-list is a great tool for managing your daily tasks, ensuring that nothing is forgotten, and allowing you to stay in control of your progress.
 
 [click here, see closer](https://todo-list-cs.vercel.app/) 😉
 

@@ -19,7 +19,10 @@
 
 Task management application built in ReactJS. With this application, users can register, delete, and mark tasks as completed.
 
-Key features: task registration, task deletion, completion marking.
+Key features:
+- Task registration: Users can enter new tasks into the list through an input form.
+- Task deletion: Users have the option to remove existing tasks from the list.
+- Completion marking: Users can mark tasks as completed, indicating their progress.
 The todo-list is a great tool for managing your daily tasks, ensuring that nothing is forgotten, and allowing you to stay in control of your progress.
 
 [click here, see closer](https://todo-list-cs.vercel.app/) 😉
